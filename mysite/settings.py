@@ -25,7 +25,7 @@ SECRET_KEY = 'yfew1ca0d)c9pc8a@#cuetqn1_-1qhp)+s&%l=b_5u$x33sxb0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','arturx.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','arturxdroid.pythonanywhere.com']
 
 
 # Application definition
